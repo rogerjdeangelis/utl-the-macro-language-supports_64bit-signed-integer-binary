@@ -1,7 +1,7 @@
-# utl-the-macro-language-supports_65bit-signed-integer-binary
+# utl-the-macro-language-supports_64bit-signed-integer-binary
 It looks like the macro language supports 65bit signed integer binary
 
-    It looks like the macro language supports 65bit signed integer binary                                       
+    It looks like the macro language supports 64bit signed integer binary                                       
                                                                                                                 
     github                                                                                                      
     https://tinyurl.com/y646sq38                                                                                
